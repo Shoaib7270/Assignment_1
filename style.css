@@ -204,7 +204,7 @@ ul li a{
     height: 243px;
     width: 366.67px;
     padding: 24px;
-    background-color: #F2EDED;
+    background-color: rgb(246, 232, 227);
     border-radius: 14px;
     
 }
@@ -256,7 +256,7 @@ ul li a{
     margin: 116px 143px;
     height: 696.77px;
     width: 1140px;
-    background-color: #F2EDED80;
+    background-color: rgb(187, 233, 230);
     text-align: center;
     padding: 35px 50px;
     border-radius: 14px;
@@ -306,7 +306,7 @@ ul li a{
     gap: auto;
     justify-content: space-between;
     align-items: center;
-    background-color: #F2EDED;
+    background-color: rgb(195, 226, 245);
 }
 .body-section5-title{
     height: 232px;
@@ -336,6 +336,7 @@ ul li a{
     border: none;
     border-radius: 10px;
     padding-left: 15px;
+    background-color: #FFFFFF;
 }
 textarea{
     height: 135px;
@@ -344,6 +345,7 @@ textarea{
     border-radius: 10px;
     padding-top: 15px;
     padding-left: 15px;
+    background-color: #FFFFFF;
 }
 .get-in-touch-button{
     background-color: #4E47FF;
